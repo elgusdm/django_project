@@ -1,2 +1,3 @@
-# App-LG
-# Hola we
+# App Hola we
+    [elgusdm](https://github.com/elgusdm) 
+    
