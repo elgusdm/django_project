@@ -1,6 +1,6 @@
 # Name APP
 
-# Open Source App
+** Open Source App **
 
 ****
 Contributors
