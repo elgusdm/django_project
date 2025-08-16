@@ -9,6 +9,4 @@ Contributors
 
 >[Leandro]()
 
->[Rodolfo]()
-
 >[yiyo](https://github.com/yiyoshonen-ops)
